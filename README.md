@@ -15,6 +15,7 @@ To get started with this project, follow these steps:
 
 ```bash
 git clone https://github.com/Dilantha-Wijesinghe/onesignal-backend-ts.git
+
 cd onesignal-backend-ts
 ```
 
