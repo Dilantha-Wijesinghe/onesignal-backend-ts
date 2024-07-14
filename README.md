@@ -1,4 +1,4 @@
-# Push Notifications Server
+# OneSignal Push Notifications Server
 
 This is a Node.js server built with TypeScript designed to send push notifications using OneSignal.
 
